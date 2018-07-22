@@ -5,8 +5,8 @@
 ------------------------
 DataBase = (loadfile "redis.lua")()
 DataBase = DataBase.connect('127.0.0.1', 6379)
-channel_id = -1001260834392
-channel_user = "4mir"
+channel_id = -1001145180694
+channel_user = "FastChargeTK"
 local BOT = Tabchi-ID
 function dl_cb(arg, data)
 end
